@@ -3,4 +3,5 @@ S-1-5-21-2220396279-3725562423-2173926027-1001 - ADMIN - FULL ACESSO : INFINITY
 S-1-5-21-3076902905-3351617153-2439886622-1001 - usuario - full acesso : infinity ~~ pago
 S-1-5-21-73647256-1126760624-3151018414-1000 - usuario - full acesso : infinity  ~~~esperar pagamento
 S-1-5-21-2422257210-2355013275-217172947-1015 - usuario - full acesso : infinity ~~~ pago
+S-1-5-21-2000082186-3094594875-990633639-1001 - usuario - full acesso : infinity ~~ pago
 
