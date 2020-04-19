@@ -6,3 +6,4 @@ S-1-5-21-2422257210-2355013275-217172947-1015 - usuario - full acesso : infinity
 S-1-5-21-3140003782-939506481-4178176978-1001 - usuario - full acesso : infinity ~~ pago
 S-1-5-21-1196154968-169951748-2150465618-1000 - usuarido - full acesos : infinity ~~ pago
 S-1-5-21-1108779378-1464820372-1341788096-1000 - usario - full acesso : infinity ~~ pago
+S-1-5-21-2451708322-3394035000-2338093242-1001 - usuario - full acesso : infinity ~~ pago
