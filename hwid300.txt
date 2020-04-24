@@ -9,3 +9,4 @@ S-1-5-21-1108779378-1464820372-1341788096-1000 - usario - full acesso : infinity
 S-1-5-21-2451708322-3394035000-2338093242-1001 - usuario - full acesso : infinity ~~ pago
 S-1-5-21-64697185-3075580237-3064665447-1001 - usuario - full acesso : infinity ~~ pago
 S-1-5-21-1981956917-1914658412-2584209912-1001 - usuario - full acesso : liberei de graça por causa de referencia '-'
+S-1-5-21-3954755775-3411104089-521258498-1006 - usuario - full acesso : liberei de graça por causa de referencia -'
